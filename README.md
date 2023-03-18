@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://info.flagcounter.com/zgjV"><img src="https://s11.flagcounter.com/map/zgjV/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
 <!--
 **19337405/19337405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
